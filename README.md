@@ -1,4 +1,4 @@
-# PortScanner: A Friendly Python Network Explorer
+# PortScanner: A Python Network Explorer
 
 Hey there! This **PortScanner** is a simple and reliable tool built with Python to help you check networks and find out what services are running. It uses the powerful **Nmap** tool quietly in the background.
 
