@@ -79,7 +79,7 @@ STATUS: UP (The host is reachable)
 
 -----
 ## Credits
-Inspired by the Python-Nmap tutorial,**[Top Five Cyber Security Python projects for Students and Beginners](https://youtu.be/tbhYxd2sfAE?si=b56JUPDyLLBJEt1Q)**," by W J Pearce. This project was expanded to include CLI parsing, integrated error handling, and JSON output for data processing.
+Inspired by the Python-Nmap tutorial, **[Top Five Cyber Security Python projects for Students and Beginners](https://youtu.be/tbhYxd2sfAE?si=b56JUPDyLLBJEt1Q)**, by W J Pearce. This project was expanded to include CLI parsing, integrated error handling, and JSON output for data processing.
 
 ## License
 
