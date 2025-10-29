@@ -5,7 +5,7 @@ Hey there! This **PortScanner** is a simple and reliable tool built with Python 
 ---
 
 
-## What This Tool Does (Key Features)
+## What This Tool Does 
 
 * **Finds Services & Versions:** It uses Nmap flags (`-sV`, `-sC`) to identify the exact service (like 'Apache') and its version. This is the first step in any security check!
 * **Simple Command Line Use (CLI):** It uses `argparse` so you can run it easily without changing the code.
@@ -15,7 +15,7 @@ Hey there! This **PortScanner** is a simple and reliable tool built with Python 
 ---
 
 
-## Get Ready (Prerequisites)
+## Get Ready 
 
 Before you start scanning, please make sure you have these installed:
 
@@ -44,7 +44,7 @@ Before you start scanning, please make sure you have these installed:
 
 You just need to tell the PortScanner what IP or domain you want to check.
 
-### 1. Simple Check (View on Screen)
+### 1. Simple Check 
 
 Just run the scan and see the results right away in your terminal:
 
@@ -52,7 +52,7 @@ Just run the scan and see the results right away in your terminal:
 python PortScanner.py 45.33.32.156
 ````
 
-### 2\. Scan and Save (Data Science Prep)
+### 2. Scan and Save 
 
 If you want the data for later analysis (maybe with Pandas\!), use the `-o` flag:
 
