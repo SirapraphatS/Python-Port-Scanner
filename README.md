@@ -2,10 +2,6 @@
 
 Hey there! This **PortScanner** is a simple and reliable tool built with Python to help you check networks and find out what services are running. It uses the powerful **Nmap** tool quietly in the background.
 
-This project is a perfect mix of my interests:
-* **Software Engineering:** The code is clean, has easy-to-use commands, and includes good safety checks.
-* **Data Science:** It can save results in structured **JSON format**, ready for analysis (like calculating risk scores!).
-
 ---
 
 ## What This Tool Does (Key Features)
