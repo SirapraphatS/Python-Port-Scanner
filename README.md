@@ -40,7 +40,7 @@ Before you start scanning, please make sure you have these installed:
 ---
 
 
-## How to Use It (Usage Examples)
+## How to Use It 
 
 You just need to tell the PortScanner what IP or domain you want to check.
 
@@ -63,7 +63,7 @@ python PortScanner.py 192.168.1.0/24 -o network_report_2025.json
 -----
 
 
-## Example Output (What You See)
+## Example 
 
 This is what a successful scan looks like when you run it:
 
