@@ -83,4 +83,4 @@ The foundational concept and initial code structure for integrating Nmap with Py
 
 ## License
 
-This project is open source and uses the **MIT License**. Feel free to use and build upon it\! (See the `LICENSE` file for full details.)
+This project is open source and uses the **MIT License**. (See the `LICENSE` file for full details.)
