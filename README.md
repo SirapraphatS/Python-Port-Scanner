@@ -78,7 +78,9 @@ STATUS: UP (The host is reachable)
 ```
 
 -----
+## Credits
+The foundational concept and initial code structure for integrating Nmap with Python was inspired by the excellent tutorial, **[Python Port Scanner using Python-Nmap](https://youtu.be/tbhYxd2sfAE?si=b56JUPDyLLBJEt1Q)**, by **W J Pearce**. This project expanded the code with essential features like robust error handling, command-line parsing, and JSON output.
 
-## 📜 License
+## License
 
 This project is open source and uses the **MIT License**. Feel free to use and build upon it\! (See the `LICENSE` file for full details.)
