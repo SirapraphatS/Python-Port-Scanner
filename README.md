@@ -4,6 +4,7 @@ Hey there! This **PortScanner** is a simple and reliable tool built with Python 
 
 ---
 
+
 ## What This Tool Does (Key Features)
 
 * **Finds Services & Versions:** It uses Nmap flags (`-sV`, `-sC`) to identify the exact service (like 'Apache') and its version. This is the first step in any security check!
@@ -13,6 +14,7 @@ Hey there! This **PortScanner** is a simple and reliable tool built with Python 
 
 ---
 
+
 ## Get Ready (Prerequisites)
 
 Before you start scanning, please make sure you have these installed:
@@ -20,6 +22,7 @@ Before you start scanning, please make sure you have these installed:
 1.  **Nmap Binary:** You need the main Nmap program on your system (get it via `apt-get`, `brew`, or the Nmap installer).
 2.  **Python 3.14** (or any 3.x version you use).
 3.  **`python-nmap` Library:** This is the Python code that talks to Nmap.
+
 
 ### Installation & Setup
 
@@ -35,6 +38,7 @@ Before you start scanning, please make sure you have these installed:
     ```
 
 ---
+
 
 ## How to Use It (Usage Examples)
 
@@ -58,6 +62,7 @@ python PortScanner.py 192.168.1.0/24 -o network_report_2025.json
 
 -----
 
+
 ## Example Output (What You See)
 
 This is what a successful scan looks like when you run it:
@@ -78,8 +83,11 @@ STATUS: UP (The host is reachable)
 ```
 
 -----
+
+
 ## Credits
 Inspired by the Python-Nmap tutorial, **[Top Five Cyber Security Python projects for Students and Beginners](https://youtu.be/tbhYxd2sfAE?si=b56JUPDyLLBJEt1Q)**, by W J Pearce. This project was expanded to include CLI parsing, integrated error handling, and JSON output for data processing.
+
 
 ## License
 
