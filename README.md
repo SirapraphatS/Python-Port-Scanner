@@ -25,8 +25,8 @@ Before you start scanning, please make sure you have these installed:
 
 1.  **Get the Code:**
     ```bash
-    git clone [YOUR REPO URL HERE]
-    cd [YOUR REPO FOLDER NAME]
+    git clone git clone https://github.com/SirapraphatS/Python-Port-Scanner.git
+    cd Python-Port-Scanner
     ```
 
 2.  **Install the Library:**
@@ -79,7 +79,7 @@ STATUS: UP (The host is reachable)
 
 -----
 ## Credits
-The foundational concept and initial code structure for integrating Nmap with Python was inspired by the excellent tutorial, **[Python Port Scanner using Python-Nmap](https://youtu.be/tbhYxd2sfAE?si=b56JUPDyLLBJEt1Q)**, by **W J Pearce**. This project expanded the code with essential features like robust error handling, command-line parsing, and JSON output.
+The foundational concept and initial code structure for integrating Nmap with Python was inspired by the excellent tutorial, **[Top Five Cyber Security Python projects for Students and Beginners](https://youtu.be/tbhYxd2sfAE?si=b56JUPDyLLBJEt1Q)**, by **W J Pearce**. This project expanded the code with essential features like robust error handling, command-line parsing, and JSON output.
 
 ## License
 
